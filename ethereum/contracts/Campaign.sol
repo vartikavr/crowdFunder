@@ -16,7 +16,7 @@ contract CampaignFactory {
         return deployedCampaigns;
     }
 }
-
+ 
 contract Campaign {
     struct Request {
         string description;
